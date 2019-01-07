@@ -6,7 +6,7 @@
  * Time: 16:42
  */
 
-namespace Aex\Packagetest\Facades;
+namespace Yhqtest001\Packagetest\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

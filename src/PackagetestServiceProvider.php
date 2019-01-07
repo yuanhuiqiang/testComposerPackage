@@ -1,6 +1,6 @@
 <?php
 
-namespace Aex\Packagetest;//命名空间要修改
+namespace Yhqtest001\Packagetest;//命名空间要修改
 
 use Illuminate\Support\ServiceProvider;
 

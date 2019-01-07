@@ -1,5 +1,5 @@
 {
-    "name": "aex/packagetest-for-laravel",
+    "name": "yhqtest001/packagetest-for-laravel",
     "authors": [
         {
             "name": "yuanhuiqiang",
@@ -10,7 +10,7 @@
 
     "autoload": {
         "psr-4": {
-            "Aex\\Packagetest\\": "src/"
+            "Yhqtest001\\Packagetest\\": "src/"
         }
     }
 

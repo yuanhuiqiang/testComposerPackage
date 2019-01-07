@@ -6,7 +6,7 @@
  * Time: 16:01
  */
 
-namespace Aex\Packagetest;
+namespace Yhqtest001\Packagetest;
 
 use Illuminate\Session\SessionManager;
 use Illuminate\Config\Repository;
